@@ -1,0 +1,5 @@
+Inferno das dependências é um termo usado para lidar com as complicações dos pacotes de software.  Pois com o iminente crescimento do sistema mais pacotes precisam ser adicionando causando um cansaço por parte dos programadores.
+Os programadores ao tentar rodar o sistema que era banco de dados dos reembolsos ocorreu um erro ao tentar carregar os dados descritos na #223 do Jarbas. Um comando que funcionava anteriormente bem não funcionava mais devido a esse erro.
+
+Pyup é um sistema que mantém a lista de dependências do Jarbas atualizadas. Ele contribui para o sistema de gerenciamento pois evita erros facilitando a vida dos programadores.
+Uma ferramenta parecida com o Pyup é o docplayer
